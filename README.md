@@ -16,13 +16,13 @@
 ## In-game currency
 There are two types of in-game currency in Howrse: equus, which operates as general currency, and passes, which operate as en elevated currency.
 
-### How to earn equus
+### Ways to earn equus
 * Sell horses, items, and black market items (BMIs).
 * Sell crops grown in the fields and greenhouses.
 * Sell goods produced by workshops.
 * Log in every day to collect the Breader's Wealth Privilege.
 
-### How to earn passes
+### Ways to earn passes
 * Sell horses.
 * Complete daily objectives twice a day.
 * Submit coat creations to the game.
