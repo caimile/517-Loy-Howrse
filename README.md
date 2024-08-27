@@ -1,5 +1,5 @@
 # 517-Loy-Howrse
- ## What is Howrse?
+ # What is Howrse?
  Howrse is an online browser game where you can breed horses, enter competitions, and manage your own equestrian center!
 
  You can play on the [International Server](https://www.howrse.com/) or a country-specific server, like the [United States](https://us.howrse.com/).
@@ -14,7 +14,15 @@
  5. Wild Horses
 
 ## In-game currency
+There are two types of in-game currency in Howrse: equus, which operates as general currency, and passes, which operate as en elevated currency.
 
 ### How to earn equus
+* Sell horses, items, and black market items (BMIs)
+* Sell crops grown in the fields and greenhouses.
+* Sell goods produced by workshops.
+* Log in every day to collect the Breader's Wealth Privilege.
 
 ### How to earn passes
+* Sell horses.
+* Complete the two daily objectives.
+* Submit coat creations to the game.
