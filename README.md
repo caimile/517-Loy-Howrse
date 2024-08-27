@@ -24,5 +24,5 @@ There are two types of in-game currency in Howrse: equus, which operates as gene
 
 ### How to earn passes
 * Sell horses.
-* Complete the two daily objectives.
+* Complete daily objectives twice a day.
 * Submit coat creations to the game.
