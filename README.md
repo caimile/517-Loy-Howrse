@@ -12,3 +12,9 @@
  3. Draft Horse
  4. Divines
  5. Wild Horses
+
+## In-game currency
+
+### How to earn equus
+
+### How to earn passes
